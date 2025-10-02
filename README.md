@@ -5,7 +5,7 @@
        width="100%"/>
 </p>
 
-<!-- Sección principal con imagen izquierda y texto derecha -->
+<!-- Sección principal con caballerito izquierda y texto derecha -->
 <table>
   <tr>
     <td width="200px" align="center">
@@ -14,11 +14,11 @@
            width="160"/>
     </td>
     <td>
-      <h1>👋 Hola, soy <strong>TU NOMBRE</strong></h1>
+      <h1>👋 Hola, soy <strong>Daniel</strong></h1>
       <p>
-        💻 Desarrollador en formación, apasionado por la programación y el diseño minimalista.<br>
-        🚀 Actualmente aprendiendo <strong>React | Node.js | Spring Boot | PostgreSQL | Python</strong>.<br>
-        🎯 Objetivo: crecer como Full Stack Developer y contribuir en proyectos Open Source.<br>
+        💻 Desarrollador de software apasionado por la programación y la tecnología.<br>
+        🚀 Actualmente trabajo con <strong>HTML | CSS | JavaScript | React</strong>.<br>
+        🎯 Objetivo: seguir creciendo como desarrollador Frontend y aportar en proyectos innovadores.<br>
         🎮 Gamer en mis ratos libres (fan de Hollow Knight 🦋).
       </p>
     </td>
@@ -29,7 +29,7 @@
 
 ## ⚡ Mi Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,spring,postgres,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
 ---
@@ -45,10 +45,9 @@
 ## 🚀 Proyectos Destacados
 | Proyecto | Descripción |
 |----------|-------------|
-| [Proyecto1](URL) | 🌌 Sistema increíble que hace XYZ |
-| [Proyecto2](URL) | 📅 Aplicación de eventos con registro de usuarios |
-| [Proyecto3](URL) | 🧠 Proyecto de machine learning |
-| [Proyecto4](URL) | 🎨 Landing page minimalista |
+| [Proyecto1](URL) | 🌐 Aplicación web desarrollada en React |
+| [Proyecto2](URL) | 🎨 Landing page responsive con HTML, CSS y JS |
+| [Proyecto3](URL) | ⚡ Proyecto personal explorando animaciones en React |
 
 ---
 
@@ -56,7 +55,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://open.spotify.com/user/tuusuario"><img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
