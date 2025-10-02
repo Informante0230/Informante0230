@@ -49,14 +49,11 @@
   <img src="https://img.shields.io/badge/React-En%20progreso-61DAFB?style=for-the-badge&logo=react" />
 </p>
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
 
 
 
-
-</p>
 
 <!--GIF -->
 <div style="display: flex; justify-content: flex-end;">
