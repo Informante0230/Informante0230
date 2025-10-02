@@ -12,6 +12,7 @@
       <img src="https://static.wikia.nocookie.net/hollowknight/images/2/27/The_Knight.png/revision/latest?cb=20171025193254&path-prefix=es" 
            alt="Hollow Knight" 
            width="160"/>
+      
     </td>
     <td>
       <h1>👋 Hola, soy <strong>Daniel</strong></h1>
