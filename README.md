@@ -34,16 +34,9 @@
 
 ---
 
-## 📊 Lenguajes más usados
+## 📊 Mi actividad en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&langs_count=4&theme=radical&layout=pie" />
-</p>
-
----
-
-## 📈 Mi actividad
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -59,4 +52,3 @@
 ---
 
 ✨ Gracias por visitar mi perfil ✨
-
