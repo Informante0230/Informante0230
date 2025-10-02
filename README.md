@@ -29,7 +29,7 @@
 
 ## ⚡ Mi Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ---
@@ -60,3 +60,4 @@
 ---
 
 ✨ Gracias por visitar mi perfil ✨
+
