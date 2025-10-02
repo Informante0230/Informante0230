@@ -5,16 +5,18 @@
        width="100%"/>
 </p>
 
-<!-- Sección principal con GIF izquierda y texto derecha -->
+<!-- Sección principal con imagen izquierda y texto derecha -->
 <table>
   <tr>
-    <td width="200px">
-      <img src="https://media.tenor.com/MmWxWCktE-0AAAAi/hk.gif" alt="Hollow Knight" width="180"/>
+    <td width="200px" align="center">
+      <img src="https://static.wikia.nocookie.net/hollowknight/images/2/27/The_Knight.png/revision/latest?cb=20171025193254&path-prefix=es" 
+           alt="Hollow Knight" 
+           width="160"/>
     </td>
     <td>
       <h1>👋 Hola, soy <strong>TU NOMBRE</strong></h1>
       <p>
-        💻 Desarrollador en formación apasionado por la programación y el diseño minimalista.<br>
+        💻 Desarrollador en formación, apasionado por la programación y el diseño minimalista.<br>
         🚀 Actualmente aprendiendo <strong>React | Node.js | Spring Boot | PostgreSQL | Python</strong>.<br>
         🎯 Objetivo: crecer como Full Stack Developer y contribuir en proyectos Open Source.<br>
         🎮 Gamer en mis ratos libres (fan de Hollow Knight 🦋).
