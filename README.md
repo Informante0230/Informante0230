@@ -47,7 +47,7 @@
 
 ---
 
-✨ Gracias por visitar mi perfil ✨
+
 
 <div style="display: flex; justify-content: flex-end;">
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
