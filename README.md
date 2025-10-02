@@ -20,10 +20,7 @@
         🚀 Actualmente trabajo con <strong>HTML | CSS | JavaScript | React</strong>.<br>
         🎯 Objetivo: seguir creciendo como desarrollador Frontend y aportar en proyectos innovadores.<br>
      
-      </p>
-    </td>
-  </tr>
-</table>
+      
 
 ---
 
