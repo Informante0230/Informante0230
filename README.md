@@ -1,23 +1,63 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/6hYkK9R.png" alt="banner" width="800"/>
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# 👋 Olá! Eu sou **TU NOMBRE**
 
+---
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+## 👤 Quem Sou Eu?
+Sou desenvolvedor em formação, apaixonado por tecnologia e inovação 🚀.  
+Atualmente estudando **React | Node.js | Python | PostgreSQL | Spring Boot**.  
 
+🎯 Meu objetivo é me tornar um Full Stack Developer e contribuir em projetos que impactem positivamente a vida das pessoas.
 
-<br>
-<h3 align="left">Lenguajes que domino</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+---
 
+## 🌱 Um Pouco Mais Sobre Mim
+- 💻 Amo aprender novas tecnologias.  
+- 🎨 Curto design minimalista.  
+- 🎮 Gamer nas horas vagas (Hollow Knight ❤️).  
+- 🎵 Música sempre me acompanha.  
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
+## 🌍 Conecte-se Comigo
+<p align="left">
+  <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://open.spotify.com/user/tuusuario"><img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge" /></a>
+</p>
 
+---
 
+## 📊 GitHub Status
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+</p>
 
+---
 
+## ⚡ Minhas Stacks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,spring,postgres,mysql,git,github,vscode,linux,docker" />
+</p>
+
+---
+
+## 🚀 Meus Melhores Repositórios
+| 📌 Projeto | ⭐ Descrição |
+|------------|-------------|
+| [**MeuProjeto1**](URL) | 🌌 Sistema incrível que faz XYZ |
+| [**MeuProjeto2**](URL) | 📅 Aplicação de eventos com cadastro de usuários |
+| [**MeuProjeto3**](URL) | 🧠 Projeto de machine learning |
+| [**MeuProjeto4**](URL) | 🎨 Landing page minimalista |
+
+---
+
+✨ Obrigado por visitar meu perfil! ✨
 
 
 
