@@ -34,27 +34,26 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Lenguajes más usados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&langs_count=4&theme=radical&layout=pie" />
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
-| Proyecto | Descripción |
-|----------|-------------|
-| [Proyecto1](URL) | 🌐 Aplicación web desarrollada en React |
-| [Proyecto2](URL) | 🎨 Landing page responsive con HTML, CSS y JS |
-| [Proyecto3](URL) | ⚡ Proyecto personal explorando animaciones en React |
+## 📈 Mi actividad
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=radical" />
+</p>
 
 ---
 
-## 🌍 Conectemos
+## 🛠 Nivel en tecnologías
 <p align="center">
-  <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-Avanzado-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-Avanzado-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-En%20progreso-61DAFB?style=for-the-badge&logo=react" />
 </p>
 
 ---
