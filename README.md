@@ -5,14 +5,12 @@
        width="100%"/>
 </p>
 
-# 👋 Hola, soy **TU NOMBRE**
-
----
-
-<!-- GIF de Hollow Knight -->
-<p align="center">
-  <img src="https://media.tenor.com/MmWxWCktE-0AAAAi/hk.gif" alt="Hollow Knight" width="200"/>
+<!-- GIF en esquina -->
+<p align="right">
+  <img src="https://media.tenor.com/MmWxWCktE-0AAAAi/hk.gif" alt="Hollow Knight" width="120"/>
 </p>
+
+# 👋 Hola, soy **TU NOMBRE**
 
 ---
 
@@ -59,4 +57,3 @@
 ---
 
 ✨ Gracias por visitar mi perfil ✨
-
