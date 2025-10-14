@@ -38,7 +38,7 @@
 
 ## 🛠 Nivel en tecnologías
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/HTML-Avanzado-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-Avanzado-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-Avanzado-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/React-En%20progreso-61DAFB?style=for-the-badge&logo=react" />
