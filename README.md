@@ -19,7 +19,7 @@
         💻 Desarrollador de software apasionado por la programación y la tecnología.<br>
         🚀 Actualmente trabajo con <strong>HTML | CSS | JavaScript | React</strong>.<br>
         🎯 Objetivo: seguir creciendo como desarrollador Frontend y aportar en proyectos innovadores.<br>
-        🎮 Gamer en mis ratos libres (fan de Hollow Knight 🦋).
+        
       </p>
     </td>
   </tr>
